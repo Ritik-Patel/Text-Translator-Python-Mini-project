@@ -20,4 +20,4 @@ Take the following inputs from user:
 ### Step-4:
 Execute translate() method and print final output. 
 
-## On a perfect execution of this translator, you should have similar outputs as you cann see in Outputs folder.
+## On a perfect execution of this translator, you should have similar outputs as you can see in Outputs folder.
