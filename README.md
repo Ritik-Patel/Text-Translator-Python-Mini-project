@@ -22,6 +22,6 @@ Execute translate() method and print final output.
 
 ## On a perfect execution of this translator, you should the following output in your screen:
 
-![Different Languages codes](/Outputs/1.png)
+![Different Languages codes](master/Outputs/1.png)
 
-![Output Screen](/Outputs/2.png)
+![Output Screen](master/Outputs/2.png)
