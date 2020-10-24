@@ -20,8 +20,4 @@ Take the following inputs from user:
 ### Step-4:
 Execute translate() method and print final output. 
 
-## On a perfect execution of this translator, you should the following output in your screen:
-
-![Different Languages codes](master/Outputs/1.png)
-
-![Output Screen](master/Outputs/2.png)
+## On a perfect execution of this translator, you should have similar outputs as you cann see in Outputs folder.
