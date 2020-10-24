@@ -21,5 +21,7 @@ Take the following inputs from user:
 Execute translate() method and print final output. 
 
 ## On a perfect execution of this translator, you should the following output in your screen:
-![Different Languages codes](/Outputs/1.png)
-![Output Screen](/Outputs/2.png)
+
+![Different Languages codes](Outputs/1.png)
+
+![Output Screen](Outputs/2.png)
